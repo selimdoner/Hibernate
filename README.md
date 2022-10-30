@@ -1,7 +1,7 @@
 # Hibernate
 
-src/main/java/com/hb01/annotations/# .annotations
-
+# .annotations
+https://github.com/selimdoner/Hibernate/tree/main/src/main/java/com/hb01/annotations
 # .embeddable
 
 # .onetoone
