@@ -1,6 +1,6 @@
 # Hibernate
 
-# .annotations
+src/main/java/com/hb01/annotations/# .annotations
 
 # .embeddable
 
