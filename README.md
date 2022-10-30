@@ -1,10 +1,10 @@
 # Hibernate
-.annotations
-.embeddable
-.onetoone
-.manytoone
-.uni_onetomany
-.bi_onetomany
+#.annotations
+#.embeddable
+#.onetoone
+#.manytoone
+#.uni_onetomany
+#.bi_onetomany
 .manytomany
 .fetchtypes
 .idgenerationstrategy
